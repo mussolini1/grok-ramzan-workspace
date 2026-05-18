@@ -1,0 +1,22 @@
+# Unreal Engine 5
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.uproject.user
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Blender
+*.blend1
+*.blend2
